@@ -59,8 +59,8 @@ We’ll be building medium in the following stack
 1.  **Clone the Repository**
  
     
-       ```git clone https://github.com/your-username/medium.git 
-    cd medium``` 
+       ```git clone https://github.com/your-username/medium.git```
+    ```cd medium``` 
     
     
 2.  **Set Up the Backend**
